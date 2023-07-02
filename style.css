@@ -35,26 +35,17 @@ nav {
 nav button {
     border: 0;
     outline: 0;
-    background: #db0001;
+    background: #e50914;
     color: #fff;
-    padding: 7px 20px;
-    font-size: 12px;
+    padding: 9px 16px;
+    border-radius: 4px;
+    display: inline-flex;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 14px;
     border-radius: 4x;
     margin-left: 10px;
     cursor: pointer;
-}
-
-.language-btn {
-    display: inline-flex;
-    align-items: center;
-    background: transparent;
-    border: solid #fff;
-    padding: 7px 10px;
-}
-
-.language-btn img {
-    width: 10px;
-    margin-left: 10px;
 }
 
 .header-content {
@@ -67,10 +58,9 @@ nav button {
 }
 
 .header-content h1 {
-    font-size: 60px;
+    font-size: 48px;
     line-height: 70px;
-    font-weight: 600;
-    max-width: 650px;
+    font-weight: 900;
 }
 
 .header-content h3 {
@@ -102,4 +92,41 @@ nav button {
     font-size: 16px;
     cursor: pointer;
     padding: 15px 30px;
+}
+
+/* -------------- features ---------------- */
+
+.features {
+    padding: 50px 12%;
+    font-size: 22px;
+}
+ 
+.row {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 50px 0;
+}
+
+.text-col {
+    flex-basis: 50%;
+    margin-bottom: 20px;
+}
+
+.img-col {
+    flex-basis: 50%;
+    margin-bottom: 20px;
+}
+
+.img-col img {
+    display: block;
+    width: 90%;
+    margin: auto
+}
+
+.features h2 {
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 20px;
 }
