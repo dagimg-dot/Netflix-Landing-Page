@@ -6,7 +6,7 @@ This is a clone of the Netflix landing page. It was built using pure HTML and CS
 
 ## Demo
 
-[Live Demo](https://netflix-landing-page-clone.netlify.app/)
+[Live Demo](https://netflix-landing-by-j.netlify.app/)
 
 ## Screenshot
 
