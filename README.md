@@ -10,4 +10,4 @@ This is a clone of the Netflix landing page. It was built using pure HTML and CS
 
 ## Screenshot
 
-![Screenshot](https://postimg.cc/67pWZS30)
+<img src="https://i.postimg.cc/67pWZS30/Netflix-Landing-Page-Clone.png" alt="Netflix-Landing-Page-Clone" style="width: 500px"/>
