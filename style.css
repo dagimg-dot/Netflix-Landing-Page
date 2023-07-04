@@ -55,6 +55,7 @@ nav button {
     border: solid #fff 1px;
     border-radius: 4px;
     padding: 7px 10px;
+    color: #fff;
 }
 
 .language-btn img {
